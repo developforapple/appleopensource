@@ -1,0 +1,3 @@
+[submodule "objc4"]
+	path = objc4
+	url = git@github.com:developforapple/objc4.git
